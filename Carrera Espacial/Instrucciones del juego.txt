@@ -1,0 +1,11 @@
+Instrucciones del Juego:
+
+Para controlar al cohete utiliza las teclas de flecha (arriba, abajo, izquierda y derecha) para controlar el movimiento del cohete espacial por el espacio.
+
+Debes evitar colisionar con los meteoritos que aparecen aleatoriamente en el espacio. Si el cohete choca con un meteorito, perderás el juego.
+
+El objetivo principal es llegar al borde derecho del mapa para ganar el juego. Una vez que lo logres, se mostrará un mensaje de "Has ganado" y el juego se detendrá.
+
+Si el cohete colisiona con un meteorito o llega al borde derecho del mapa, puedes reiniciar el juego presionando la tecla "r". Esto te dará otra oportunidad para alcanzar el objetivo de ganar.
+
+¡Diviértete! Disfruta del desafío y la emoción de navegar por el espacio y evitar obstáculos mientras intentas ganar el juego.
